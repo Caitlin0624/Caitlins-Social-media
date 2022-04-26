@@ -1,0 +1,28 @@
+h1 {
+    color: #6D6875;
+    font-family: 'Space Mono', monospace;
+}
+
+p {
+    color: grey;
+    font-family: 'Space Mono', monospace;
+}
+
+body {
+    background-color: #FFCDB2;
+}
+
+h2 {
+    color: black;
+    font-family: 'Luckiest Guy', cursive;
+}
+
+h4 {
+    color: grey;
+    font-family: 'Luckiest Guy', cursive;
+}
+
+li {
+    color: grey;
+    font-family: 'Space Mono', monospace;
+}
